@@ -1,4 +1,4 @@
-# Understanding VAE
+# Variational Autoencoder
 
 A step-by-step derivation and mathematical justification of Evidence Lower Bound (ELBO) maximization in the original Variational Autoencoder ([Kingma & Welling, 2013](https://arxiv.org/abs/1312.6114)), together with a convolutional VAE trained on CelebA.
 
