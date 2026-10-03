@@ -1,0 +1,15 @@
+[project]
+name = "understanding-vae"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gdown>=6.4.1",
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "torch>=2.14.0",
+    "torchvision>=0.29.1",
+]
